@@ -1,3 +1,3 @@
-[a link](https://loan-calculator-js-app.netlify.app/)LoanCalculator
+[Loan Calculator](https://loan-calculator-js-app.netlify.app/)
 
 HTML5, Bootstrap and Pure Vanilla JavaScript.
